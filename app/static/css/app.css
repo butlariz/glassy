@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.logo {
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+}
+
+nav {
+    background-color: #383838;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    margin: 30px;
+    background-color: #f7f7f7;
+    padding: 30px;
+}
